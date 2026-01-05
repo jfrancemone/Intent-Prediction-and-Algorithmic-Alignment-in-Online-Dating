@@ -1,0 +1,11 @@
+# Ignore Data
+data/
+
+# Ignore Models
+models/
+
+# Ignore Jupyter Checkpoints & System files
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+__pycache__/
+.DS_Store
