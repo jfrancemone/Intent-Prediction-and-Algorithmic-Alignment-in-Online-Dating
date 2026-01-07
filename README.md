@@ -1,4 +1,6 @@
 # Intent Prediction & Algorithmic Alignment
+## 📊 Project Overview
+[**View the Project Slides (PDF)**](./Francemone_Intent_Prediction_and_Algorithmic_Alignment.pdf)
 ### Reducing User Friction through Multi-Modal Intent Analysis
 
 **Techniques:** Supervised  Gradient Boosting, Unsupervised NLP (LDA), Causal Inference (Propensity Score Matching)
