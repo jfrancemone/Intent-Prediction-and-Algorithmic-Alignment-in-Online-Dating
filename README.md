@@ -59,3 +59,23 @@ This repository separates data, model artifacts, and analysis logic.
 │
 ├── requirements.txt                                           <-- Dependencies for reproduction
 └── Francemone_Intent_Prediction_and_Algorithmic_Alignment.pdf <-- Summary Slide Deck
+```
+
+---
+
+### **Reproducibility**
+
+**Prerequisites:**
+To reproduce this analysis, you will need the packages listed in `requirements.txt`.
+
+**Installation:**
+1.  Clone the repository:
+    ```bash
+    git clone [https://github.com/jfrancemone/Intent-Prediction-and-Algorithmic-Alignment.git](https://github.com/jfrancemone/Intent-Prediction-and-Algorithmic-Alignment.git)
+    ```
+2.  Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+3.  **Run the Analysis:**
+    Navigate to `notebooks/` and launch the Jupyter Notebook.
