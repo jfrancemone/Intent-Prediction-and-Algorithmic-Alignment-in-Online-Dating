@@ -1,6 +1,6 @@
 # 🤖 Intent Prediction & Algorithmic Alignment
 [![Topic](https://img.shields.io/badge/Topic-NLP_%26_Machine_Learning-blue)]()
-[![Method](https://img.shields.io/badge/Method-XGBoost_%7C_Causal_Inference-green)]()
+[![Method](https://img.shields.io/badge/Method-XGBoost_%7C_spaCy_%7C_Causal_Inference-green)]()
 [![Status](https://img.shields.io/badge/Status-Project_Complete-orange)]()
 
 ### **Project Overview**
