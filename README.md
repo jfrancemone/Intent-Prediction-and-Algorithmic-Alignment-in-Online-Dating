@@ -37,7 +37,7 @@ By analyzing user essays, I identified five robust psychographic clusters that c
 Using **Propensity Score Matching (PSM)** and **Sensitivity Analysis**, I separated causal drivers from correlations:
 
 * **The Socialite Effect (+18.46% Lift):** Validated as a robust causal driver (Gamma = 2.3). Even after controlling for demographics, users who signal social behaviors are fundamentally more driven toward family building.
-    * *Recommendation:* Elevate social keywords (dinner, bar, events) as high-confidence proxies for family intent.
+    * *Recommendation:* Elevate social keywords (dinner, bar, events) as high-confidence proxies for family planning.
 * **The Techie Divergence (-19.76% Lift):** Validated as a robust deterrent (Gamma = 2.1). This persona represents a distinct, competing life goal focused on technological and media-related interests.
     * *Recommendation:* Implement hard segmentation. Do not nudge these users toward family tracks; optimize for shared-interest matching instead.
 * **The Romantic Null (-1.79% Lift):** Seeking love does not mean seeking family. Users using highly romantic language show zero causal increase in desire for children (p = 0.22).
