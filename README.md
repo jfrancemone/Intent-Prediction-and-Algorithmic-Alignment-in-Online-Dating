@@ -27,7 +27,7 @@ By analyzing user essays, I identified five robust psychographic clusters that c
 * **The Romantic:** Intimacy-focused, emotional.
 
 #### **3. Causal Drivers vs. Proxy Signals**
-Using **Propensity Score Matching (PSM)**, I separated causal drivers from simple correlations:
+Using **Propensity Score Matching (PSM)**, I separated causal drivers from correlations:
 * **The Socialite Effect (+18.46% Lift):** Validated as a robust causal driver. Users who signal social behaviors are fundamentally more driven toward family building.
     * *Recommendation:* Elevate social keywords (dinner, bar, events) as high-confidence proxies.
 * **The Techie Divergence (-19.76% Lift):** Validated as a robust deterrent. This persona represents a distinct, competing life goal.
