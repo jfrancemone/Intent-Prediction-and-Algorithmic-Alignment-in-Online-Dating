@@ -56,7 +56,7 @@ This repository separates data, model artifacts, and analysis logic.
 │   └── lda_model_frozen.gensim.state
 │
 ├── /data
-│   └── (Excluded from repo for privacy)                       <-- Raw profile data
+│   └── (Excluded from repo due to size)                       <-- Raw profile data
 │
 ├── requirements.txt                                           <-- Dependencies for reproduction
 └── Francemone_Intent_Prediction_and_Algorithmic_Alignment.pdf <-- Summary Slide Deck
